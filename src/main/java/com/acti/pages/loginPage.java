@@ -1,5 +1,7 @@
 package com.acti.pages;
 
-public class loginPage {
+import com.acti.base.DriverScript;
+
+public class loginPage extends DriverScript {
 
 }

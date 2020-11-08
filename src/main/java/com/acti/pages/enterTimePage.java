@@ -1,5 +1,8 @@
 package com.acti.pages;
 
-public class enterTimePage {
+import com.acti.base.DriverScript;
+
+public class enterTimePage extends DriverScript
+{
 
 }
